@@ -1,0 +1,7 @@
+Smart Waste Classification Assistant | Python, PyTorch, Torchvision, Streamlit
+
+- Developed an image-classification pipeline to categorize waste images using transfer learning with a pretrained ResNet model.
+- Evaluated model performance using accuracy, precision, recall, F1-score, and a confusion matrix.
+- Built a Streamlit interface that displays predicted categories, confidence scores, and low-confidence warnings.
+
+Only use these bullets after you personally train, test, understand, and complete the project.
